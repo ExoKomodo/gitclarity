@@ -9,7 +9,7 @@ SCM for me because it feels right
 
 ## Technology Stack
 
-HTMX served by the [Babashka]([Babashka](https://babashka.org/) [Clojure](https://clojure.org) runtime
+HTMX served by the [Babashka](https://babashka.org/) [Clojure](https://clojure.org) runtime
 
 ## Setup
 
