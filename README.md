@@ -9,7 +9,7 @@ SCM for me because it feels right
 
 ## Technology Stack
 
-[](Clojure) ([](Babashka) as the environment) using HTMX
+HTMX served by the [Babashka]([Babashka](https://babashka.org/) [Clojure](https://clojure.org) runtime
 
 ## Setup
 
