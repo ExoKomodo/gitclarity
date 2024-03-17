@@ -5,6 +5,7 @@ SCM for me because it feels right
 ## Important Links
 - [Source Code](https://github/com/exokomodo/gitclarity)
 - [Mirror](https://git.sr.ht/~jamesaorson/gitclarity)
+- [Clojure Git Library](https://github.com/clj-jgit/clj-jgit)
 - [Comically simple example app](https://github.com/prestancedesign/babashka-htmx-todoapp)
 
 ## Technology Stack
